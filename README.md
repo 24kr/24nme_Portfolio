@@ -1,8 +1,4 @@
-Got it! Here's the updated `README.md` file with the repository link included:
-
----
-
-# Software Engineer Portfolio
+# NGABO MBARAGA Eric Portfolio
 
 ## Overview
 
