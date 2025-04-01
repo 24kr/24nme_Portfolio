@@ -46,8 +46,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
-- **GitHub**: [Your GitHub Profile](https://github.com/24kr)
+- **Email**: [ngabombaragaeric24@gmail.com](mailto:ngabombaragaeric24@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ngabo-mbaraga-eric/](https://www.linkedin.com/in/ngabo-mbaraga-eric/)
+- **GitHub**: [https://github.com/24kr](https://github.com/24kr)
 
 ---
