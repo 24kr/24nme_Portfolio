@@ -1,44 +1,57 @@
-# vCard - Personal portfolio
+Got it! Here's the updated `README.md` file with the repository link included:
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+---
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+# Software Engineer Portfolio
 
-## Demo
+## Overview
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+Welcome to my personal portfolio! I am Ngabo Mbaraga Eric, a software engineer with 2 years of experience specializing in **full-stack web development**, **mobile app development using React Native (Android and iOS)**, **multimedia design**, and **graphic design**. This portfolio showcases my skills, projects, and approaches to solving real-world challenges.
 
-## Prerequisites
+## Features
 
-Before you begin, ensure you have met the following requirements:
+- **About Me**: Learn about my background, expertise, and journey as a software engineer.
+- **Resume**: Explore my professional experience, technical skills, and accomplishments.
+- **Portfolio**: A collection of projects highlighting my technical abilities and creativity.
+- **Blog**: Insights, tutorials, and reflections on software engineering topics.
+- **Contact**: Connect with me for collaborations or inquiries.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Technologies Used
 
-## Installing vCard
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express
+- **Mobile Development**: React Native
+- **Database**: MongoDB, PostgreSQL
+- **Design Tools**: Adobe Creative Suite (Photoshop, Illustrator, XD), Figma
+- **Version Control**: Git, GitHub
 
-To install **vCard**, follow these steps:
+## How to Use
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+1. Clone the repository:
+   ```
+   git clone https://github.com/24kr/24nme_Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd 24nme_Portfolio
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Run the project locally:
+   ```
+   npm start
+   ```
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
+- **GitHub**: [Your GitHub Profile](https://github.com/24kr)
+
+---
